@@ -10,4 +10,4 @@ I'm a student from the US, working as a script developer and occasionally creati
 I enjoy what I do and love bringing ideas that come to my mind to life. I am passionate about learning and experimenting with different tools and languages.
 
 ## Contact
-- **Email**: [uximprover@gmail.com](mailto:uximprover@example.com)
+- **Email**: [uximprover@gmail.com](mailto:uximprover@gmail.com)
