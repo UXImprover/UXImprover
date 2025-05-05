@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm UXImprover!
 
-<!--
-**UXImprover/UXImprover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from the US, working as a script developer and occasionally creating websites. My main skills include **HTML**, **JavaScript**, and **Python**, and I'm currently learning **Java**, **C#**, and **Typescript**.
 
-Here are some ideas to get you started:
+## My Interests
+- Script development
+- Web development (occasionally creating websites)
+- Exploring new technologies and programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy what I do and love bringing ideas that come to my mind to life. I am passionate about learning and experimenting with different tools and languages.
+
+## Contact
+- **Email**: [uximprover@gmail.com](mailto:uximprover@example.com)
