@@ -1,13 +1,33 @@
-# Hey, I'm UXImprover!
+<h1 align="center">Hey, I'm UXImprover 👋</h1>
 
-I'm a student from the US, working as a script developer and occasionally creating websites. My main skills include **HTML**, **JavaScript**, and **Python**, and I'm currently learning **Java**, **C#**, and **Typescript**.
+<p align="center">
+  💻 Script & web dev • 🇺🇸 Student • 🛠 Learning Java, C#, TypeScript
+</p>
 
-## My Interests
-- Script development
-- Web development (occasionally creating websites)
-- Exploring new technologies and programming languages
+---
 
-I enjoy what I do and love bringing ideas that come to my mind to life. I am passionate about learning and experimenting with different tools and languages.
+### 🧠 About me
 
-## Contact
-- **Email**: [uximprover@gmail.com](mailto:uximprover@gmail.com)
+- I'm a student from the U.S.
+- I write scripts, and sometimes websites.
+- Currently working with a Russian service (just because, why not).
+- I love building whatever comes to my mind.
+
+### 🧰 Tech Stack
+
+- 💡 HTML, CSS, JavaScript
+- 🐍 Python
+- ☕ Learning Java, C#, TypeScript
+
+### 🛸 Currently
+
+- Improving my skills and messing with fun ideas.
+- Projects coming soon...
+
+---
+
+<!-- GitHub stats badge section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UXImprover&show_icons=true&theme=tokyonight" />
+</p>
+
